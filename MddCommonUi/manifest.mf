@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: org.vrsl.jet.ui/0
+OpenIDE-Module-Implementation-Version: 9
+OpenIDE-Module-Localizing-Bundle: org/vrsl/jet/ui/Bundle.properties
+

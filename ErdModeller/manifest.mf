@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: org.vrsl.jet.modeller.erd/0
+OpenIDE-Module-Implementation-Version: 9
+OpenIDE-Module-Localizing-Bundle: org/vrsl/jet/modeller/erd/Bundle.properties
+
